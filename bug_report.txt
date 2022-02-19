@@ -1,0 +1,17 @@
+Summary: The logo disappeared on main title
+Project: web-site
+Component: graphical interface
+Version: 5.4831.23BCF
+Severity: Minor
+Priority: HIGH
+Status: OPEN
+Author": Mark Zalzman
+Assigned to: Artur Obodritov
+Environment: win 10,64bit,chrome 98.0.4758.82
+Steps to Reproduce":
+    Step one: Open the site
+    Step two: ..
+    Step three: ...
+Result: Logo disappear on main title
+Expected result: Logo is appear on main title
+Attachment: logs.txt

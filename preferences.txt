@@ -1,0 +1,5 @@
+Fav movie: Warcraft
+Fav tv shows: Band of Brothers
+Fav food: Pizza
+Fav season: Summer
+country: Suomi

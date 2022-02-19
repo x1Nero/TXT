@@ -1,0 +1,9 @@
+Skills:
+1.Theory
+2.GITBASH
+3.Devtools
+4.SQL
+5.Postman
+6.JMeter
+7.CV
+8. ...
